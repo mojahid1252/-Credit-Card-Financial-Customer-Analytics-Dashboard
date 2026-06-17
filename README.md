@@ -428,10 +428,10 @@ Data Analyst | Financial Analytics & BI Specialist
 
 I build end-to-end analytics solutions that turn raw operational data into executive-grade dashboards - SQL data warehousing, Power BI semantic modeling, DAX measures, and the business storytelling that ties it all together.
 
-- 📧 **Email:** [your.email@example.com](mailto:mojahidulislam101010@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mozahidul-islam-453662380/)
-- 🌐 **Portfolio:** [My-portfolio.com]()
-- 📊 **Fiverr / Upwork:** [My-freelance-link]()
+- 📧 **Email:** [mojahidulislam101010@gmail.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/mozahidul-islam-453662380/]
+- 🌐 **Portfolio:** 
+- 📊 **Fiverr / Upwork:** 
 
 ---
 
